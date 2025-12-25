@@ -58,7 +58,7 @@ Frontend-Design-MCQs Exam/
 
 1. **Clone or download the project:**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Connect-Munir/Prompt-Python-Frontend-MCQs.git
    cd "Frontend-Design-MCQs Exam"
    ```
 
